@@ -8,7 +8,7 @@ const API = {
       console.log(err)
     }
     const json = await res.json();
-
+    //return the last workout in the array
     return json[json.length - 1];
   },
   //add new exercise
@@ -18,6 +18,7 @@ const API = {
     const res = await fetch("/api/workouts/" + id, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
+      //'body' that is in line 32 on api-routes.js
       body: JSON.stringify(data)
     });
 
