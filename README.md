@@ -1,10 +1,15 @@
 # Unit 17 Nosql Homework: Workout Tracker
 Using the front end code in the `Develop` folder you'll create a workout tracker while creating a Mongo db with a Mongoose schema and routes with Express.
 
-
 ## User Story
 
 * As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+
+![fitness_tracker_home](https://user-images.githubusercontent.com/65740432/95620837-c5571200-0a3e-11eb-893c-cb795f3272a3.PNG)
+
+![exercise](https://user-images.githubusercontent.com/65740432/95620879-d1db6a80-0a3e-11eb-99f7-4c838099f7f4.PNG)
+
+![dashboard](https://user-images.githubusercontent.com/65740432/95620897-d6078800-0a3e-11eb-90c1-f34d88479a25.PNG)
 
 ## Business Context
 
