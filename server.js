@@ -18,7 +18,7 @@ app.use(express.static("public"));
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", { useNewUrlParser: true });
 
-//Create a new workout
+/*Create a new workout
 app.post("/api/workouts", (req, res) => {
   //create workout
   const workout = req.body;
@@ -29,7 +29,7 @@ app.post("/api/workouts", (req, res) => {
     .catch(err => {
       res.json(err);
     });
-});
+}); 
 
 //Continue w/old workout
 app.get("/api/workouts",)
@@ -59,7 +59,7 @@ app.put("/api/workouts/:id", ({ body }, res) => {
   db.Workout.
 })
 //View the combined weight of multiple exercises on 'stats' page
-
+*/
 
 //Create routes
 require("./routes/api-routes.js")(app);
