@@ -43,4 +43,4 @@ To deploy an application with a MongoDB database to Heroku, you'll need to set u
 
 * [GitHub Profile](https://github.com/pettisnick)
 
-* [Email]((mailto:lunde@adobe.com)
+* [Email]((mailto:pettisnick@gmail.com)
