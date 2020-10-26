@@ -35,10 +35,12 @@ To deploy an application with a MongoDB database to Heroku, you'll need to set u
 
   * [Deploy with Heroku and MongoDB Atlas](../04-Important/MongoAtlas-Deploy.md)
 
-## Submission on BCS
+## Contributors
 
-You are required to submit the following:
+* Nick Pettis
 
-* The URL to the deployed application
+## Contact Information
 
-* The URL to the GitHub repository
+* [GitHub Profile](https://github.com/pettisnick)
+
+* [Email]((mailto:lunde@adobe.com)
